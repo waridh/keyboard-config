@@ -1,0 +1,3 @@
+#+title: CIDOO ABM066
+* Overview
+The CIDOO ABM066 is an Alice layout mechanical keyboard. It is programmable using VIA, which is the reason that we are storing the configuration in JSONs.
